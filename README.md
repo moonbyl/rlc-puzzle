@@ -20,6 +20,8 @@ Game edukasi berbasis Unity untuk merakit rangkaian listrik RLC secara interakti
 ## Struktur Folder
 - `Assets/` – Script, prefab, dan UI
 - `ProjectSettings/` – Konfigurasi project Unity
+
+- ![image](https://github.com/user-attachments/assets/8f780194-9657-4541-9404-6e1a70454bf9)
 - `.gitignore` – Untuk mengecualikan file berat
 
 ---
